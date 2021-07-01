@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello World ! ----- modification 1 modification 2</h1>
+	<h1>Test Jsp File</h1>
 </body>
 </html>
